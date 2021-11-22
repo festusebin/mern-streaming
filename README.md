@@ -1,11 +1,8 @@
-# MERN Mediastream 2.0
-- *Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-mediastream/tree/master)*
+# MERN Streaming
 
 A media streaming application with media upload and stream features - developed using React, Node, Express and MongoDB.
 
 ![MERN Mediastream](https://s3.amazonaws.com/mernbook/git+/mediastream.png "MERN Mediastream")
-
-### [Live Demo](http://mediastream2.mernbook.com/ "MERN Mediastream")
 
 #### What you need to run this code
 1. Node (13.12.0)
@@ -19,7 +16,7 @@ A media streaming application with media upload and stream features - developed 
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 ----
-### More applications built using this stack
+<!-- ### More applications built using this stack
 
 * [MERN Skeleton](https://github.com/shamahoque/mern-social/tree/second-edition)
 * [MERN Social](https://github.com/shamahoque/mern-social/tree/second-edition)
@@ -55,3 +52,4 @@ Things you'll learn in this book:
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839215410) today!
 
 ---
+-->
