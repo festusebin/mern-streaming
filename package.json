@@ -1,7 +1,8 @@
 {
   "name": "mern-mediastream",
-  "version": "2.0.0",
+  "version": "0.1.0",
   "description": "A MERN stack based media streaming application",
+  "author": "Festus Ebin",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
