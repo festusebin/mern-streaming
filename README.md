@@ -11,7 +11,6 @@ A minimal video streaming application with media upload and stream features - de
 - Storing and retrieving video details
 - Streaming videos from cloud database to a basic media player
 
-
 #### I am also currently doing refactoring of the application and improving more on the design and functionality.
 
 <!-- ### The application is also fully deploy and hosted on Heroku. Live view of the application Demo can be found here- [MERN Expense Tracker](https://) -->
@@ -144,6 +143,7 @@ I made use of these `technology` during the development process.
 * [NodeJS](https://nodejs.org)
 * [Express Framework](https://expressjs.com)
 * [MongoDB](https://mongodb.com)
+* [Webpack](https://webpack.js.org)
 <!--* [Redux]
 * [Webpack] -->
 
